@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/uber/static/css/main.8adda66e.chunk.css",
-    "main.js": "/uber/static/js/main.8fe3ce9e.chunk.js",
-    "main.js.map": "/uber/static/js/main.8fe3ce9e.chunk.js.map",
+    "main.js": "/uber/static/js/main.573260b1.chunk.js",
+    "main.js.map": "/uber/static/js/main.573260b1.chunk.js.map",
     "runtime-main.js": "/uber/static/js/runtime-main.d556ccae.js",
     "runtime-main.js.map": "/uber/static/js/runtime-main.d556ccae.js.map",
-    "static/js/2.1a9c76ea.chunk.js": "/uber/static/js/2.1a9c76ea.chunk.js",
-    "static/js/2.1a9c76ea.chunk.js.map": "/uber/static/js/2.1a9c76ea.chunk.js.map",
+    "static/js/2.b451b7fb.chunk.js": "/uber/static/js/2.b451b7fb.chunk.js",
+    "static/js/2.b451b7fb.chunk.js.map": "/uber/static/js/2.b451b7fb.chunk.js.map",
     "index.html": "/uber/index.html",
     "static/css/main.8adda66e.chunk.css.map": "/uber/static/css/main.8adda66e.chunk.css.map",
-    "static/js/2.1a9c76ea.chunk.js.LICENSE.txt": "/uber/static/js/2.1a9c76ea.chunk.js.LICENSE.txt"
+    "static/js/2.b451b7fb.chunk.js.LICENSE.txt": "/uber/static/js/2.b451b7fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d556ccae.js",
-    "static/js/2.1a9c76ea.chunk.js",
+    "static/js/2.b451b7fb.chunk.js",
     "static/css/main.8adda66e.chunk.css",
-    "static/js/main.8fe3ce9e.chunk.js"
+    "static/js/main.573260b1.chunk.js"
   ]
 }

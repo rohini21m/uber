@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rohini21m/uber/static/css/main.8adda66e.chunk.css",
-    "main.js": "/rohini21m/uber/static/js/main.c5e0d905.chunk.js",
-    "main.js.map": "/rohini21m/uber/static/js/main.c5e0d905.chunk.js.map",
-    "runtime-main.js": "/rohini21m/uber/static/js/runtime-main.09896d3d.js",
-    "runtime-main.js.map": "/rohini21m/uber/static/js/runtime-main.09896d3d.js.map",
-    "static/js/2.f0caaf2d.chunk.js": "/rohini21m/uber/static/js/2.f0caaf2d.chunk.js",
-    "static/js/2.f0caaf2d.chunk.js.map": "/rohini21m/uber/static/js/2.f0caaf2d.chunk.js.map",
-    "index.html": "/rohini21m/uber/index.html",
-    "static/css/main.8adda66e.chunk.css.map": "/rohini21m/uber/static/css/main.8adda66e.chunk.css.map",
-    "static/js/2.f0caaf2d.chunk.js.LICENSE.txt": "/rohini21m/uber/static/js/2.f0caaf2d.chunk.js.LICENSE.txt"
+    "main.css": "/rohini21m.io/uber/static/css/main.8adda66e.chunk.css",
+    "main.js": "/rohini21m.io/uber/static/js/main.c5e0d905.chunk.js",
+    "main.js.map": "/rohini21m.io/uber/static/js/main.c5e0d905.chunk.js.map",
+    "runtime-main.js": "/rohini21m.io/uber/static/js/runtime-main.e471fd0d.js",
+    "runtime-main.js.map": "/rohini21m.io/uber/static/js/runtime-main.e471fd0d.js.map",
+    "static/js/2.0dc4d3b7.chunk.js": "/rohini21m.io/uber/static/js/2.0dc4d3b7.chunk.js",
+    "static/js/2.0dc4d3b7.chunk.js.map": "/rohini21m.io/uber/static/js/2.0dc4d3b7.chunk.js.map",
+    "index.html": "/rohini21m.io/uber/index.html",
+    "static/css/main.8adda66e.chunk.css.map": "/rohini21m.io/uber/static/css/main.8adda66e.chunk.css.map",
+    "static/js/2.0dc4d3b7.chunk.js.LICENSE.txt": "/rohini21m.io/uber/static/js/2.0dc4d3b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.09896d3d.js",
-    "static/js/2.f0caaf2d.chunk.js",
+    "static/js/runtime-main.e471fd0d.js",
+    "static/js/2.0dc4d3b7.chunk.js",
     "static/css/main.8adda66e.chunk.css",
     "static/js/main.c5e0d905.chunk.js"
   ]
